@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "リトル・ダーリン",
+  "base_artist": "Eriko Tamura",
+  "createdAt": "2025-12-01T19:23:24.792673Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Little Darling",
+      "artist": "REBECCA",
+      "has_synced": false,
+      "path": "select/pl_01_Little_Darling_REBECCA.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "リトル・ダーリン",
+      "artist": "REBECCA",
+      "has_synced": false,
+      "path": "select/pl_02_リトル・ダーリン_REBECCA.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "リトル・ダーリン",
+      "artist": "REBECCA",
+      "has_synced": false,
+      "path": "select/pl_03_リトル・ダーリン_REBECCA.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Little Darling",
+      "artist": "REBECCA",
+      "has_synced": false,
+      "path": "select/pl_04_Little_Darling_REBECCA.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Little Darlin'",
+      "artist": "REBECCA",
+      "has_synced": false,
+      "path": "select/pl_05_Little_Darlin'_REBECCA.txt"
+    }
+  ]
+}
